@@ -1,5 +1,4 @@
-:bowtie: I’m a CS major interested in learning more about graph theory and the various elements of machine learning. 
-Currently, I'm learning how to implement basic algorithms in C. 
+:bowtie: CS major currently learning how to implement common algorithms in C and the basics on numerical computing.
 
 
 <!---
