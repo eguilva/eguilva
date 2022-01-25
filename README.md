@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @eguilva
-- 👀 I’m interested in learning more about graph theory and the various elements of machine learning.
-- I’m currently learning how to implement basic algorithms using the C language. 
-- I’m looking to collaborate on school projects only currently (in either C or Java for now). 
+:bowtie: I’m a CS major interested in learning more about graph theory and the various elements of machine learning. 
+Currently, I'm learning how to implement basic algorithms in C. 
 
 
 <!---
