@@ -1,4 +1,4 @@
-:bowtie: CS major currently learning how to implement common algorithms in C and the basics on numerical computing.
+:bowtie:
 
 
 <!---
